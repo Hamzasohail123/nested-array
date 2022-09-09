@@ -1,2 +1,2 @@
 # nested-array
-nested array
+class assignment
